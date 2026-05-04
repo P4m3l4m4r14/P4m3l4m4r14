@@ -40,8 +40,8 @@ Minhas stacks principais:
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=b76e79&text_color=5a5a5a&icon_color=b76e79" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=b76e79&text_color=5a5a5a" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P4m3l4m4r14&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=b76e79&text_color=5a5a5a&icon_color=b76e79" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4m3l4m4r14&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=b76e79&text_color=5a5a5a" />
 </div>
 
 ---
