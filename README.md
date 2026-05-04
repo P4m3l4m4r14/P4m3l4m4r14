@@ -19,22 +19,21 @@
 Minhas stacks principais:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-FF298E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-995675?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-CC4986?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-664E59?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-FF298E?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-CC4986?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-995675?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-664E59?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-B3CDE0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FDE74C?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-A1C9F2?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-B9E4C9?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F4C2C2?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-C5CAE9?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-B2DFDB?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
 ---
 
 ### 📂 Projetos em Destaque
-- **[SIC] Sistema Integrado de Caronas:** Gerenciamento e backend de uma plataforma de caronas regional.
-- **JavaLar:** Aplicação full-stack simulando um sistema planetário usando POO e MySQL.
-- **Aprendendo as Vogais:** Projeto de robótica com ESP32 e impressão 3D voltado para educação infantil.
+- 🚗 **[SIC] Sistema Integrado de Caronas:** Gerenciamento e backend de uma plataforma de caronas regional.
+- 🪐 **JavaLar:** Aplicação full-stack simulando um sistema planetário usando POO e MySQL.
+- 🧩 **Aprendendo as Vogais:** Projeto de robótica com ESP32 e impressão 3D voltado para educação infantil.
 
 ---
 
@@ -49,9 +48,9 @@ Minhas stacks principais:
 ### 📫 Vamos nos conectar?
 <div align="center">
   <a href="mailto:pamelamaria.iot@gmail.com">
-    <img src="https://img.shields.io/badge/Email-CC4986?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pamela-frota">
-    <img src="https://img.shields.io/badge/LinkedIn-995675?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-AEC6CF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
